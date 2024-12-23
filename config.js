@@ -1,13 +1,13 @@
 require("./doc/module.js")
 
 global.prefix = ['','!','.',',','#','/']
-global.owner = ['916909137213']
-global.ownMain = '916909137213'
-global.NamaOwner = '🦄드림 가이 Xeon' //
+global.owner = ['628973086040']
+global.ownMain = '628973086040'
+global.NamaOwner = '🦄日本 RynZxD' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = 'X-EndPoint' //
-global.author = '🦄드림 가이 Xeon' //
+global.author = '🦄日本 RynZxD' //
 global.packname = 'Xeon-Bug-API' //
 global.url1 = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20' //
 global.url2 = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20' //
